@@ -3,7 +3,8 @@
     {
       "firstName": "Anil",
       "lastName": "Nagvanshi",
-      "age": 27
+      "age": 27,
+      "occupation" : "software engineer"
     }
   ]
 }
