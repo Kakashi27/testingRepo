@@ -4,7 +4,8 @@
       "firstName": "Anil",
       "lastName": "Nagvanshi",
       "age": 27,
-      "occupation" : "software engineer"
+      "occupation" : "software engineer",
+      "marital_status" : "married"
     }
   ]
 }
