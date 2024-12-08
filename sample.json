@@ -6,6 +6,12 @@
       "age": 27,
       "occupation" : "software engineer",
       "marital_status" : "married"
+    },{
+      "firstName": "Suresh",
+      "lastName": "Nagvanshi",
+      "age": 20,
+      "occupation" : "student",
+      "marital_status" : "unmarried"
     }
   ]
 }
